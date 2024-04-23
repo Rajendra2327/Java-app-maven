@@ -1,0 +1,25 @@
+public class wildanimals
+{
+ 
+   static void animal()
+{
+     System.out.println("how to roar");
+}
+}
+    class tiger extends wildanimals
+{
+    static void animal1()
+{
+     System.out.println("tiger bigger roaring ");
+}
+}
+class animal2
+{
+  public static void main(String[]args)
+{
+  hotspot os= new hotspot();
+  os.connect();
+  os.connect1();
+}
+}
+ 
